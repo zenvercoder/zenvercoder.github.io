@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "omg I did it!"
+date:   2016-11-11 15:19:52 -0700
+categories: general
+---
+
+So I tried to set up this a github blog 6 months ago. I spent days and days on it, but never got it.
+
+Today, after 5 months of coding bootcamp, I got it working all on my own.
+Incredible. 
+
+Here are some of the sites that helped:
+
+* [Build A Blog With Jekyll And GitHub Pages]
+* [Setting up your GitHub Pages site locally with Jekyll]
+
+[Build A Blog With Jekyll And GitHub Pages]: https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/
+[Setting up your GitHub Pages site locally with Jekyll
+]:   https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/
