@@ -1,4 +1,7 @@
 source "https://rubygems.org"
+gem 'nokogiri'
+gem 'rack', '~>1.1'
+gem 'rspec', :require => 'spec'
 ruby RUBY_VERSION
 
 # Hello! This is where you manage which Jekyll version is used to run.
