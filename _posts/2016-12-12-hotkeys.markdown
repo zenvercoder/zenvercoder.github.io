@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Hot key combinations"
+date:   2016-12-12 11:00:00 -0700
+categories: hot keys
+---
+
+### More super cool, super useful hot key combinations
+
+* `cmd + function + left/right arrow` to get to top/bottom
+
+* `cmd + shift up/down` to move line of code
