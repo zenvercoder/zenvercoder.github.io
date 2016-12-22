@@ -15,9 +15,10 @@ categories: teaching
 
 * The [CodePen](http://codepen.io/zenvercoder/pen/mOgLXB) we played with
 
-* I really enjoyed this one even more than the first one because it was a smaller group and it was more of a conversation than a lecture. I think people were more engage
+* I really enjoyed this one even more than the first one because it was a smaller group and it was more of a conversation than a lecture. I think people were more engaged
+
+* Thanks to [Josh Couper](https://www.linkedin.com/in/joshcouper) for the opportunity to practice/give back
 
 * ![Chrome Dev Tools Demo](images/ChromeDevTools.png)
 
-* Thanks to [Josh Couper](https://www.linkedin.com/in/joshcouper) for the opportunity to practice/give back
 
