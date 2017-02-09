@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "JS30 clock"
+date:   2017-02-09 09:00:00 -0700
+categories: JavaScript CodePen
+---
+
+### Playing with CSS Variables and JS
+
+* From the [JavaScript30](https://javascript30.com/) course by [Wes Bos](http://wesbos.com/)
+
+* [Stormtroopers](http://codepen.io/HermineF/pen/yeONYO?editors=0110) pen by [HermineF](http://codepen.io/HermineF/)
+
+* transform-origin: default is 50%. If you change it to 100%, it moves the x to the very right and that's where the transforms will take place. Very cool.
+
+* help with time and some style: [JS30 Clock](http://codepen.io/thecageman/pen/YpJXVG) by [Dimitry](http://codepen.io/thecageman/). Fav line in this code: `time.innerHTML = ${hours}:${minutes}:${seconds < 10 ? '0'+seconds : seconds}`
+
+* [Animation & Layers](http://codepen.io/Haru89ka/pen/ZOzMGp?editors=1100) by [Anaislab](http://codepen.io/Haru89ka/)
+
+![clock](/images/clock.gif "JS30 clock")
+
