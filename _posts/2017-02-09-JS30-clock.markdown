@@ -17,5 +17,5 @@ categories: JavaScript CodePen
 
 * [Animation & Layers](http://codepen.io/Haru89ka/pen/ZOzMGp?editors=1100) by [Anaislab](http://codepen.io/Haru89ka/)
 
-![clock](/images/clock.gif "JS30 clock")
+![clock](/images/clock.png "JS30 clock")
 
