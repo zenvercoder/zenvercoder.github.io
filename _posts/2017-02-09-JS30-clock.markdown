@@ -15,5 +15,7 @@ categories: JavaScript CodePen
 
 * [Animation & Layers](http://codepen.io/Haru89ka/pen/ZOzMGp?editors=1100) by [Anaislab](http://codepen.io/Haru89ka/)
 
+* [Jellyfish loader](http://codepen.io/ispal/pen/apKZQd) by [Irko Palenius](http://codepen.io/ispal/)
+
 ![clock](images/clock.gif "JS30 clock")
 
