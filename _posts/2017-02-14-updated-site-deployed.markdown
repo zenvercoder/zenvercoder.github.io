@@ -13,6 +13,12 @@ categories: Profile Site
 
 [updated site](https://cloud.githubusercontent.com/assets/15267817/22941230/eb8df992-f2a1-11e6-8371-b31f0385b60a.gif)
 
+![updated site](https://cloud.githubusercontent.com/assets/15267817/22941230/eb8df992-f2a1-11e6-8371-b31f0385b60a.gif)
+
+https://cloud.githubusercontent.com/assets/15267817/22941230/eb8df992-f2a1-11e6-8371-b31f0385b60a.gif
+
 * edit: I noticed the images/gifs are working on github, but not github.io hmmm... going to try changing the path for now and if that doesn't work I'll come back to it later (so many different rabbit holes I could jump down)
 
 * That didn't work. Going to try one more thing: [GitHub Tricks: Upload Images & Live Demos](http://solutionoptimist.com/2013/12/28/awesome-github-tricks/)
+
+* Neat. It worked. Trying a couple of different ways to include img, then I'm done (for real this time).
