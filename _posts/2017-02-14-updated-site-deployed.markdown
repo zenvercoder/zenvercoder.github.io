@@ -11,5 +11,6 @@ categories: Profile Site
 
 * There is way more content now, so filling in the images, links and descriptions is where I'm at right now. It's a lot of grunt work, but this time I'm using material design for layout/style, so I'm thinking I won't have to do another iteration for a while.
 
-![updated site](images/updatedSite.gif "zenvercoder updated site")
+![updated site](./images/updatedSite.gif "zenvercoder updated site")
 
+* edit: I noticed the images/gifs are working on github, but not github.io hmmm... going to try changing the path for now and if that doesn't work I'll come back to it later (so many different rabbit holes I could jump down)
