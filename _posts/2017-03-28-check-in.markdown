@@ -1,0 +1,46 @@
+---
+layout: post
+title:  "Checking in"
+date:   2017-02-14 10:50:00 -0700
+categories: images github blog
+---
+
+### Checking in
+
+Graduated from Galvanize in December. 
+
+Out of 28 classmates, only 6 or 7 of us have jobs at this point. I hear this same story all over the place, and not just for Galvanize (they did an amazing job, don't get me wrong. I probably learned in 6 months what would have taken me at least 2 or 3 years on my own). 
+
+I haven't really taken advantage of their Alumni group which is focused on helping people apply for jobs/refine their resumes and cover letters (doing so would require putting on pants). 
+
+I've heard horror stories of new grads who land dream jobs only to be ousted after three months because they could not keep up.
+
+I've been applying to dev jobs and even landed a couple of in-person interviews, but mostly I don't even hear back.
+
+Companies reach out to me for different reasons, even though I have little to no experience in their tech stack. In those cases, I research/experiment with their tech stack (ex: Ruby, React, Java, Clojure and many others).
+
+This has resulted in a lot of defeats, frustration and a thinning of the spread.
+ 
+Plan of action: 
+
+* daily warm ups 
+
+    * [JS30](https://javascript30.com/) is a good place to go for that. 
+    * [codewars](https://www.codewars.com/) is also good, but I was too ambitious and I found myself burning off an entire work day trying to solve a single kata. 
+      JS30 is light and enjoyable and I can move on after less than an hour (if I don't go too deep with customizing). 
+
+* work on a project I love
+
+* continue to submit applications, but not allow myself to be swayed by every whiff of prospect
+
+* weekly collaboration with a wonderful organization called [Code for Denver](http://www.codefordenver.org/)
+
+* Take care of body (so easy to put off)
+
+And with that, I'm off to the World of Development.
+
+Light and Love, z
+
+
+ 
+
