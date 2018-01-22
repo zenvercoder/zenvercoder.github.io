@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "Checking in"
+date:   2018-01-22 13:00:00 
+categories: check-in
+---
+
+It has been seven months since I've been to GitHub. The only command I am recalling is `git init` at this point. It is currently 1300. Should be interesting to see how long it takes to create a repository and upload some code after so long. 
+
+Recently, I've been working with C++. 
+ 
+Reaction to last post:
+
+Plan of action: 
+
+* daily warm ups (I went too deep on these which took up too much time)
+
+* work on a project I love (Check. Learning circuits and Arduinos)
+
+* continue to submit applications (Need to work on interview skills, apparently)
+
+* weekly collaboration with a wonderful organization called (fell away from this, but gearing up to go back within the next month)
+
+* Take care of body (fail)
+
+Current Project: upload this to GitHub followed by working accelerometer code.
+
+* `git status`
+* `git add`
+* `git commit -m`
+
+Well, that was fun. Like riding a bike. 
+
+
+Light and Love, z
